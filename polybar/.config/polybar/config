@@ -6,11 +6,12 @@
 
 [colors]
 foreground = ${colors.white}
-background = ${colors.bgblue}
-red = #af2f26
+background = ${colors.bgGrey}
+red = #cb4b16
 realGreen = #82af26
-netGreen = #1caa19
+netGreen = #7aa301
 bgblue = #010024
+bgGrey = #333333
 white = #f8f8f8
 pink = #F92672
 dpink = #a01849
@@ -18,7 +19,7 @@ cyan = #23ceef
 dcyan = #157b8f
 purple = #8e4fff
 dpurple = #5a32a2
-orange = #f4a63a
+orange = #db872e
 dorange = #aa7428
 green = #A6E22E
 dgreen = #77A915
@@ -202,7 +203,7 @@ format-underline = ${colors.cyan}
 type = internal/fs
 interval = 25
 
-mount-0 = /home
+mount-0 = /
 
 label-mounted =  %free%
 format-mounted-padding = 1
