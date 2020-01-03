@@ -1,6 +1,7 @@
 [user]
-	name = Dominykas Djacenko
-	email = chaosteil@gmail.com
+	name = Alexis Sirbulescu
+	email = alexis.sirbulescu@protonmail.com
+	mail = alexis.sirbulescu@protonmail.com
 
 [core]
 	excludesfile = ~/.gitignore_global
